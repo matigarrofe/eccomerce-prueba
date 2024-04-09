@@ -1,0 +1,26 @@
+.nav-link dropdown-item {
+    font-size: 1rem;
+    font-family:cursive;
+}
+
+.nav-link:hover {
+    background: #56462e;
+    color: aliceblue;
+    transition: .3s;
+}
+
+nav {
+    height: 60px;
+    background: #def0ac!important;
+    margin-bottom: 10px;
+    text-align: center!important;
+}
+
+.dropdown-item:hover {
+    background: #a9e479;
+    color: aliceblue;
+    transition: .3s;
+}
+ul .dropdown-menu {
+    background: #1bdb6b!important;
+}
